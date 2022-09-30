@@ -8,6 +8,16 @@
     <language>en</language>
     <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yutashx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Yuta Shintomi</title>
+      <link>https://yutashx.github.io/cv/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yutashx.github.io/cv/</guid>
+      <description>Contact    yutashx[at]gmail.com
+Belongs     University of Aizu Graduate School, Computer Science and Engineering, Department of Project Management, Master&amp;rsquo;s Course 1st year  Education     B.S. Computer Science and Engineering, the University of Aizu, skip a grade (Apr. 2019 - Mar. 2022) Sendai First High School (Apr. 2016 - Mar. 2019)  Publications     Y. Shintomi, Y. Shimmyo, Y. Okuyama, and S.</description>
+    </item>
+    
+    <item>
       <title>Hello!</title>
       <link>https://yutashx.github.io/posts/tmp/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
@@ -16,16 +26,6 @@
       <description>Yuta Shintomi    Belongs    University of Aizu Graduate School Computer Science and Engineering Department of Project Management Master&amp;rsquo;s Course 1st year
 Education    B.S. Computer Science and Engineering, the University of Aizu, skip a grade (Apr. 2019 - Mar. 2022) Sendai First High School (Apr. 2016 - Mar. 2019)
 Research Topics     3D Reconstruction Sim2real  Works    </description>
-    </item>
-    
-    <item>
-      <title>Yuta Shintomi</title>
-      <link>https://yutashx.github.io/cv/</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yutashx.github.io/cv/</guid>
-      <description>Contact    yutashx[at]gmail.com
-Belongs     University of Aizu Graduate School, Computer Science and Engineering, Department of Project Management, Master&amp;rsquo;s Course 1st year  Education     B.S. Computer Science and Engineering, the University of Aizu, skip a grade (Apr. 2019 - Mar. 2022) Sendai First High School (Apr. 2016 - Mar. 2019)  Work     Teaching Assistant for Office for Learning Support in University of Aizu (Apr.</description>
     </item>
     
   </channel>
