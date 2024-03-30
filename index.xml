@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuta Shintomi</title>
-    <link>http://localhost:57506/</link>
+    <link>https://yutashx.github.io/</link>
     <description>Recent content on Yuta Shintomi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57506/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yutashx.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yuta Shintomi</title>
-      <link>http://localhost:57506/articles/</link>
+      <link>https://yutashx.github.io/articles/</link>
       <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57506/articles/</guid>
+      <guid>https://yutashx.github.io/articles/</guid>
       <description> </description>
     </item>
     <item>
       <title>Yuta Shintomi</title>
-      <link>http://localhost:57506/cv/</link>
+      <link>https://yutashx.github.io/cv/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57506/cv/</guid>
+      <guid>https://yutashx.github.io/cv/</guid>
       <description>所属 TBA&#xA;経歴 会津大学大学院　コンピュータ理工学研究科　プロジェクトマネジメント専攻　修士(コンピュータ理工学) (2022.04 - 2024.03) 会津大学　コンピュータ理工学部　コンピュータ理工学科　学士(コンピュータ理工学) 早期卒業 (2019.04 - 2022.03) 出版物 Y. Shintomi, Y. Shimmyo, Y. Okuyama, and S. Nishimura, “Evaluation of 3D Point-Cloud Reconstruction Using Overlapped Frames in Fragment Construction,” Frontiers in Artificial Intelligence and Applications. IOS Press, Sep. 14, 2022. doi: 10.3233/faia220273. T. Kohsuke, S. Yuta, O. Yuichi and S. Taro, &amp;ldquo;Design of Reward Functions for RL-based High-Speed Autonomous Driving,&amp;rdquo; 2022 IEEE 15th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC), Penang, Malaysia, 2022, pp.</description>
     </item>
     <item>
       <title>Hello!</title>
-      <link>http://localhost:57506/posts/tmp/</link>
+      <link>https://yutashx.github.io/posts/tmp/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57506/posts/tmp/</guid>
+      <guid>https://yutashx.github.io/posts/tmp/</guid>
       <description> Yuta Shintomi Belongs University of Aizu Graduate School Computer Science and Engineering Department of Project Management Master&amp;rsquo;s Course 1st year&#xA;Education B.S. Computer Science and Engineering, the University of Aizu, skip a grade (Apr. 2019 - Mar. 2022) Sendai First High School (Apr. 2016 - Mar. 2019)&#xA;Research Topics 3D Reconstruction Sim2real Works </description>
     </item>
   </channel>

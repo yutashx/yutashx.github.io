@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:57506/</loc>
+    <loc>https://yutashx.github.io/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57506/articles/</loc>
+    <loc>https://yutashx.github.io/articles/</loc>
     <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57506/cv/</loc>
+    <loc>https://yutashx.github.io/cv/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57506/posts/tmp/</loc>
+    <loc>https://yutashx.github.io/posts/tmp/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57506/posts/</loc>
+    <loc>https://yutashx.github.io/posts/</loc>
     <lastmod>2022-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:57506/authors/</loc>
+    <loc>https://yutashx.github.io/authors/</loc>
   </url><url>
-    <loc>http://localhost:57506/categories/</loc>
+    <loc>https://yutashx.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:57506/series/</loc>
+    <loc>https://yutashx.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:57506/tags/</loc>
+    <loc>https://yutashx.github.io/tags/</loc>
   </url>
 </urlset>
