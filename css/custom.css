@@ -1,0 +1,79 @@
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+h1 h2 h3 h4 h5 h6 {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.list ul li .title {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 10px;
+  align-items: stretch;
+}
+
+
+/* カードのスタイル */
+.card {
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 10px; /* 角の丸み */
+  overflow: hidden; /* 枠内に収める */
+  flex: 0 0 300px
+}
+
+/* カード内の画像スタイル */
+.card img {
+  width: 100%;
+  height: auto; /* 画像の比率を維持 */
+}
+
+/* カード内のテキストスタイル */
+.card-description {
+  padding: 15px;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* 必要に応じて高さを調整 */
+}
+
+.card-title{
+  height: 50px;
+}
+
+.card-info {
+  margin-top: auto;
+}
+
+/*align text to card bottom */
+.card-data {
+  color: gray;
+  font-size: 0.8em;
+  margin: 0px;
+  padding: 0px;
+  
+}
+
+.card-image-container {
+  width: 100%; /* コンテナの幅を設定 */
+  height: 0; /* 高さを0に設定してからpadding-topで調整 */
+  padding-top: 50%; /* 16:9の比率 (9 / 16 = 0.5625, 2/3 = 0.66*/
+  position: relative; /* 子要素のimgを絶対位置で配置するため */
+  overflow: hidden; /* はみ出した画像を非表示に */
+}
+
+.card-image-container img {
+  position: absolute;
+    top: 50%; /* 上下中央に */
+    left: 50%; /* 左右中央に */
+    width: 100%; /* 幅をコンテナに合わせて調整 */
+    height: auto; /* 高さは自動で調整 */
+    object-fit: cover; /* コンテナに合わせて画像を切り取る */
+    object-position: center; /* 切り取る位置を中央に指定 */
+    transform: translate(-50%, -50%); /* 実際に中央に配置するための補正 */
+  }

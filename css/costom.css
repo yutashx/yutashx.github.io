@@ -1,0 +1,26 @@
+ /* グリッドコンテナのスタイル */
+ .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* カードの幅を300pxとして、画面幅に応じて自動調整 */
+    gap: 20px; /* カード間のギャップ */
+    padding: 20px; /* コンテナのパディング */
+  }
+
+  /* カードのスタイル */
+  .card {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px; /* 角の丸み */
+    overflow: hidden; /* 枠内に収める */
+  }
+
+  /* カード内の画像スタイル */
+  .card img {
+    width: 100%;
+    height: auto; /* 画像の比率を維持 */
+  }
+
+  /* カード内のテキストスタイル */
+  .card-description {
+    padding: 15px;
+  }
